@@ -1,8 +1,9 @@
-# React + Vite
+install nodeJS npm install npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Notes:
 
-Currently, two official plugins are available:
+in the login form of course here we can use a form control library like react-hook-form or formik but because it is just 2 fields for login so I kept it simple
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+every 5 min the app is refreshing token it can be modified of course ...
+
+the token is
